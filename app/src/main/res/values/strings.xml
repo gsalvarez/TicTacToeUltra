@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tic Tac Toe Ultra</string>
+    <string name="btnPlayNormal">Play Normal</string>
+    <string name="btnPlayUltra">Play Ultra</string>
+    <string name="version_info">Tic Tac Toe Ultra v2.0</string>
+    <string name="dev_info">Dev by Gabeto Games</string>
+    <string name="actual_turn">Turn:</string>
+    <string name="winO">O: 0</string>
+    <string name="winX">X: 0</string>
+    <string name="play_again">Play Again</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+</resources>

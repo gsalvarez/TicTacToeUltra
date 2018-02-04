@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background">#131538</color>
+    <color name="border">#000000</color>
+    <color name="colorO">#0300ce</color>
+    <color name="colorX">#9b0000</color>
+    <color name="cellGrey">#a1dcdf</color>
+    <color name="cellDisabled">#838383</color>
+    <color name="cellDisabledStrong">#565656</color>
+    <color name="cellDisabledFull">#282828</color>
+</resources>
